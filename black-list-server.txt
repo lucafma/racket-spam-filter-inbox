@@ -1,0 +1,1 @@
+("spam.com" "hotmail.com" "test.com" "outrotest.br")
